@@ -269,7 +269,7 @@ const photoModules = import.meta.glob('../assets/team-photos/*.{jpg,jpeg,JPG,JPE
             name: 'Ayush Kelkar',
             role: 'WEBMASTER',
             department: 'ECE',
-            photo: '',
+            photo: getPhoto('ayush_kelkar.jpeg'),
             linkedin: 'https://linkedin.com',
             email: '25ug1byec117@bmsit.in',
             primary: true,
