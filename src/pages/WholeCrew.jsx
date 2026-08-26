@@ -434,7 +434,7 @@ const photoModules = import.meta.glob('../assets/team-photos/*.{jpg,jpeg,JPG,JPE
             name: 'Vansh Rajput',
             role: 'PROJECT ASSOCIATE',
             department: 'ECE',
-            photo: '',
+            photo: getPhoto('Vansh Rajput.jpg'),
             linkedin: 'https://linkedin.com',
             email: '25ug1byec010@bmsit.in',
             primary: false,
